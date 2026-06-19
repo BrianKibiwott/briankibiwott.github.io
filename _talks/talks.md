@@ -1,13 +1,11 @@
 ---
-title: "Conference presentations"
+title: "Conference Presentations"
 collection: talks
 type: "Talk"
 permalink: /talks/
 author_profile: true
 ---
-# Conference Presentations
-
-## Selected Conference Presentations
+## *Highlights*
 
 ### Characteristics and outcomes of COVID-19 patients with preexisting COPD in Sweden: A population-based register study
 
@@ -56,7 +54,7 @@ author_profile: true
 
 ---
 
-# Complete Conference Record
+# *Complete Conference Records*
 
 ## 2024
 

@@ -4,8 +4,6 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/
 ---
-# Teaching and Mentorship
-
 ### Graduate Teaching, *University of Gothenburg,*
 
 ##### Gothenburg, Sweden
