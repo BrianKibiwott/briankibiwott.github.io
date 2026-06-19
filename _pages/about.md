@@ -4,10 +4,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
-# About
-
 I am a pharmacist and clinical epidemiologist with experience in real-world evidence generation, statistical programming, and population-based research using large-scale observational and registry data sources.
 
 I am currently a postdoctoral researcher working across three main domains: respiratory epidemiology, pharmacoepidemiology, and population health research. My work focuses on addressing clinically relevant questions using healthcare databases and routinely collected health data. I collaborate with researchers in the Obstructive Lung Disease in Northern Sweden (OLIN) study at Umeå University and with colleagues at the University of Gothenburg.

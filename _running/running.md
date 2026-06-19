@@ -2,7 +2,7 @@
 title: "Running Adventures"
 collection: running
 type: "Running"
-permalink: /running/running
+permalink: /running/
 ---
 # Running Adventures
 

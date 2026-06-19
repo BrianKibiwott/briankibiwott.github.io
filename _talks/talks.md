@@ -2,7 +2,8 @@
 title: "Conference presentations"
 collection: talks
 type: "Talk"
-permalink: /talks/talks
+permalink: /talks/
+author_profile: true
 ---
 # Conference Presentations
 

@@ -1,8 +1,8 @@
 ---
-title: "Teaching and mentorship"
+title: ""
 collection: teaching
 type: "Teaching"
-permalink: /teaching/teaching-and-mentorship
+permalink: /teaching/
 ---
 # Teaching and Mentorship
 
