@@ -2,6 +2,8 @@
 title: "Berlin Half Marathon 2025"
 date: 2025-04-07
 collection: running
+permalink: /running/
+author_profile: true
 ---
 ---
 

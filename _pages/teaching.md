@@ -1,12 +1,11 @@
 ---
----
 layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
 ---
+
 ### Graduate Teaching, *University of Gothenburg*
 
 ##### Gothenburg, Sweden
