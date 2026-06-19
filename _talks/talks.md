@@ -1,9 +1,9 @@
 ---
-
-
+title: "Conference presentations"
+collection: talks
+type: "Talk"
+permalink: /talks/talks
 ---
----
-
 # Conference Presentations
 
 ## Selected Conference Presentations

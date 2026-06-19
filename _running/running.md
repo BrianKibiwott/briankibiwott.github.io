@@ -1,6 +1,8 @@
 ---
-
-
+title: "Running Adventures"
+collection: running
+type: "Running"
+permalink: /running/running
 ---
 # Running Adventures
 

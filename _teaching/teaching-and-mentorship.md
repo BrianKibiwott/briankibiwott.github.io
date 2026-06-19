@@ -1,10 +1,12 @@
 ---
-
-
+title: "Teaching and mentorship"
+collection: teaching
+type: "Teaching"
+permalink: /teaching/teaching-and-mentorship
 ---
 # Teaching and Mentorship
 
-### Graduate Teaching, *University of Gothenburg,* 
+### Graduate Teaching, *University of Gothenburg,*
 
 ##### Gothenburg, Sweden
 
