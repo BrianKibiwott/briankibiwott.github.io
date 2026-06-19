@@ -1,10 +1,9 @@
 ---
-layout: archive
-title: "Conference Record"
-permalink: /all-presentations/
-author_profile: true
+
+
 ---
 ---
+
 # Conference Presentations
 
 ## Selected Conference Presentations
