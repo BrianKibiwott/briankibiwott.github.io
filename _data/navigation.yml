@@ -9,9 +9,9 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=LX0XfA4AAAAJ&hl=en
 
-  - title: "Talks"
+  - title: "Conferences"
     url: /talks/    
 
   - title: "Teaching"
