@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Brian K. Kirui, PhD"
 title_separator          : "-"
 name                     : &name "Brian K. Kirui"
@@ -59,13 +59,13 @@ author:
   # Social media
   artstation       : # Username
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "kibiwottbrian"
+  facebook         : #"kibiwottbrian"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "briankibiwott"
+  instagram        : #"briankibiwott"
   lastfm           : # Username
   linkedin         : "briankkirui"
   mastodon         : # URL
@@ -75,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          :  "briankibiwott5" #for X / Twitter
+  twitter          : #"briankibiwott5" #for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
