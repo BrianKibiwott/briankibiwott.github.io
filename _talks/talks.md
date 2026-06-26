@@ -11,9 +11,7 @@ author_profile: true
 
 **Poster Presentation**, 42nd International Conference on Pharmacoepidemiology & Therapeutic Risk Management (ICPE), Milan, Italy
 *29 August–3 September 2026*
-Presented findings demonstrating how background incidence rates vary by sex, calendar period, and pandemic phase, emphasizing their importance for interpreting COVID-19 vaccine safety signals.
-
----
+To present findings demonstrating how background incidence rates vary by sex, calendar period, and pandemic phase, emphasizing their importance for interpreting COVID-19 vaccine safety signals.
 
 ### Reproducible smoker's paradox in COVID-19: Comparative evidence from Swedish and Norwegian cohorts
 
@@ -21,15 +19,11 @@ Presented findings demonstrating how background incidence rates vary by sex, cal
 *3–5 June 2026*
 Presented a cross-national comparison evaluating the reproducibility of the "smoker's paradox" in COVID-19 using nationwide registry data from Sweden and Norway.
 
----
-
 ### Understanding age-specific risk factors for COVID-19: A machine learning approach
 
 **Poster Presentation**, 41st International Conference on Pharmacoepidemiology & Therapeutic Risk Management (ICPE), Washington, DC, USA
 *22–26 August 2025*
 Introduced machine learning methods to identify age-specific predictors of COVID-19 outcomes in a large population-based cohort.
-
----
 
 ### COVID-19 risk and effect modification by vaccination in asthma
 
@@ -37,15 +31,11 @@ Introduced machine learning methods to identify age-specific predictors of COVID
 *10 September 2024*
 Presented evidence on how COVID-19 vaccination modified infection risk and clinical outcomes among patients with asthma in Sweden.
 
----
-
 ### Risk of acute cardiovascular events in COPD patients after experiencing COVID-19-related vs. non-COVID-19-related exacerbations – a population-based study
 
 **Oral Presentation**, 40th International Conference on Pharmacoepidemiology & Therapeutic Risk Management (ICPE), Berlin, Germany
 *27 August 2024*
 Presented population-based evidence comparing cardiovascular risk following COVID-19-related and non-COVID-19-related COPD exacerbations.
-
----
 
 ### Smoking status and COVID-19-related risk in four Swedish non-communicable disease registries: A non-intuitive association
 
@@ -53,15 +43,11 @@ Presented population-based evidence comparing cardiovascular risk following COVI
 *14 November 2023*
 Presented early findings on the relationship between smoking status and COVID-19 outcomes across four Swedish national disease registries.
 
----
-
 ### Inhaled corticosteroids and COVID-19 risk and outcomes – Findings from a population-based cohort within the SCIFI-PEARL project
 
 **Oral Presentation**, 38th International Conference on Pharmacoepidemiology & Therapeutic Risk Management (ICPE), Copenhagen, Denmark
 *27 August 2022*
 Presented one of the first SCIFI-PEARL analyses examining the association between inhaled corticosteroid use and COVID-19 risk and severity.
-
----
 
 ### Characteristics and outcomes of COVID-19 patients with preexisting COPD in Sweden: A population-based register study
 
@@ -71,7 +57,7 @@ First conference presentation from the SCIFI-PEARL project, describing clinical 
 
 ---
 
-# *Complete Conference Records*
+# Complete Conference Records
 
 ## 2026
 
