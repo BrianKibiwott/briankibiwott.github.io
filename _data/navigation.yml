@@ -21,10 +21,10 @@ main:
 #    url: /portfolio/
         
   - title: "Running"
-    url: /running/
+    url: https://www.strava.com/athletes/119102801
     
   - title: "CV"
-    url: /files/Academic_CV_BK_20260624.pdf
+    url: /files/Academic_CV_BK_20261031.pdf
     
   # - title: "CV"
   #   url: /cv-json/
