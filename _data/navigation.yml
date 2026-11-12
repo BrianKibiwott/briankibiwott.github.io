@@ -19,15 +19,16 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-  - title: "Running"
-    url: https://www.strava.com/athletes/119102801
+
+  - title: "Hobbies"
+    url: /hobbies/
     
   - title: "CV"
     url: /files/Academic_CV_BK_20261031.pdf
     
   # - title: "CV"
   #   url: /cv-json/
+
     
 #  - title: "Guide"
 #    url: /markdown/

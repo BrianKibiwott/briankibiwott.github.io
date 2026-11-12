@@ -11,6 +11,7 @@ Outside research, I enjoy spending time outdoors, exploring new places, and capt
 
 I enjoy capturing landscapes, nature, and moments from my travels and outdoor adventures.
 
+
 <div class="photo-gallery">
   <img src="/images/hobbies/photo1.jpg" alt="Landscape photograph" loading="lazy">
   <img src="/images/hobbies/photo2.jpg" alt="Nature photograph" loading="lazy">
@@ -21,6 +22,8 @@ I enjoy capturing landscapes, nature, and moments from my travels and outdoor ad
 </div>
 
 <!-- Photo gallery will go here -->
+
+
 
 ## Running & Hiking
 
