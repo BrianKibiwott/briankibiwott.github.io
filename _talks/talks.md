@@ -1,8 +1,8 @@
 
+
 ---
+layout: archive
 title: "Conference Presentations"
-collection: talks
-type: "Talk"
 permalink: /talks/
 author_profile: true
 ---
