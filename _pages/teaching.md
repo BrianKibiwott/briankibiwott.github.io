@@ -4,20 +4,17 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
----
+## Graduate Teaching
 
-### Graduate Teaching, *University of Gothenburg*
+**University of Gothenburg**
+*Gothenburg, Sweden | 2025–Present*
 
-Gothenburg, Sweden | 2025–Present
+I contribute to graduate-level teaching in epidemiology, statistical methods, and register-based health research at the University of Gothenburg. My teaching combines theoretical foundations with practical applications in epidemiological research and data analysis.
 
-##### I teach epidemiology, statistical methods, and register-based data analysis at the University of Gothenburg. My teaching includes:
+My teaching and supervision activities include:
 
-###### - **Epidemiological concepts and methods:** Incidence, incidence rates, prevalence, and fundamental principles of epidemiological study design.
-
-###### - **Data structures and algorithms:** Foundational concepts in data organization, management, and computational methods.
-
-###### - **Statistical analysis of register-based data:** Hands-on practical sessions focusing on statistical analysis and R programming.
-
-###### - **Epidemiological theory and methodology:** Teaching within *Epidemiologisk teori och metod* (Autumn 2026).
-
-###### - **Research supervision:** Supervision of master's theses and medical student research projects, with an emphasis on study design, statistical analysis, interpretation of findings, and scientific writing.
+- **Epidemiological methods:** Teaching fundamental epidemiological concepts, including incidence, prevalence, incidence rates, and principles of epidemiological study design.
+- **Data structures and algorithms:** Introducing foundational concepts in data organization, data management, and computational methods relevant to research and statistical analysis.
+- **Statistical analysis and R programming:** Leading practical sessions on statistical methods, data analysis, and the use of R for analyzing register-based health data.
+- **Epidemiological theory and methodology:** Contributing to teaching in *Epidemiologisk teori och metod* (Autumn 2026), covering theoretical and methodological aspects of epidemiological research.
+- **Research supervision:** Supervising master's theses and medical student research projects, providing guidance on study design, statistical analysis, interpretation of results, and scientific writing.
