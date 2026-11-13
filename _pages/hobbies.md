@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Hobbies"
+title: "Life & Interests"
 permalink: /hobbies/
 author_profile: true
 ---
@@ -10,17 +10,13 @@ Outside research, I enjoy spending time outdoors, exploring new places, and capt
 
 I enjoy capturing landscapes, nature, and moments from my travels and outdoor adventures.
 
-
 <div class="photo-gallery">
   <img src="/images/hobbies/photo1.jpg" alt="Runners outdoors in black and white" loading="lazy">
   <img src="/images/hobbies/photo2.jpg" alt="Runners in a green park" loading="lazy">
   <img src="/images/hobbies/photo4.JPG" alt="Coastal landscape beneath a cloudy sky" loading="lazy">
 </div>
 
-
-
-### Running & Hiking
-
-Running has long been a source of challenge, exploration, and perspective for me. I also enjoy hiking and discovering new landscapes, whether on familiar trails or in new places.
-
-**Follow my running activities on [Strava](https://www.strava.com/athletes/119102801).**
+<div class="photo-gallery">
+  <img src="photo1.jpg" alt="Photo 1">
+  <img src="photo2.jpg" alt="Photo 2">
+  <img src="photo3.jpg" alt="Photo 3">
