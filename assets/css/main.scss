@@ -49,43 +49,28 @@
    Photography Gallery
    ======================================== */
 
-/* Photography Gallery */
-
+   
 .photo-gallery {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
   margin: 20px 0;
+  max-width: 750px;
+  width: 100%;
 }
 
 .photo-gallery img {
   display: block;
   width: 100%;
-  height: 280px;
+  height: 220px;
   object-fit: cover;
   border-radius: 6px;
 }
 
-/* Make the third photograph span both columns */
-.photo-gallery img:nth-child(3) {
-  grid-column: 1 / -1;
-  height: 400px;
-}
+/* ========================================
+   Individual Hobby Images
+   ======================================== */
 
-/* Mobile layout */
-@media (max-width: 600px) {
-  .photo-gallery {
-    grid-template-columns: 1fr;
-  }
-
-  .photo-gallery img,
-  .photo-gallery img:nth-child(3) {
-    grid-column: auto;
-    height: auto;
-  }
-}
-
-/* Individual images for Running & Hiking and Runners United */
 .hobby-image {
   display: block;
   width: 100%;
@@ -96,8 +81,23 @@
   object-fit: contain;
 }
 
-/* Mobile */
+/* ========================================
+   Mobile Layout
+   ======================================== */
+
 @media (max-width: 600px) {
+
+  .photo-gallery {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .photo-gallery img {
+    height: auto;
+    max-height: 400px;
+    object-fit: contain;
+  }
+
   .hobby-image {
     max-width: 100%;
     margin: 16px auto;
