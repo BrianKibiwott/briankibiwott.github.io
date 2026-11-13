@@ -106,49 +106,95 @@
 
 
 /* ========================================
-   Selected Conference Presentations
+   Conference Presentations Timeline
    ======================================== */
 
-.selected-talks {
-  margin-top: 24px;
-  margin-bottom: 32px;
+.conference-timeline {
+  margin: 24px 0 40px;
 }
 
-.selected-talk {
-  margin-bottom: 28px;
-  padding-left: 16px;
-  border-left: 2px solid #a3b5ad;
+.timeline-item {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  column-gap: 18px;
+  padding: 0 0 26px;
+  margin-bottom: 26px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
 }
 
-.selected-talk .talk-title {
-  font-size: 1.05em;
+.timeline-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.timeline-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+}
+
+.timeline-year {
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.timeline-type {
+  display: inline-block;
+  font-size: 0.7rem;
   font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 4px 7px;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  border-radius: 4px;
+}
+
+.timeline-content h3 {
+  font-size: 1.05rem;
+  font-weight: 650;
   line-height: 1.45;
-  margin: 0 0 8px;
-}
-
-.selected-talk .talk-conference {
-  font-size: 0.92em;
-  font-style: italic;
-  line-height: 1.5;
-  margin: 0 0 3px;
-}
-
-.selected-talk .talk-date {
-  font-size: 0.85em;
-  opacity: 0.75;
   margin: 0 0 10px;
 }
 
-.selected-talk .talk-description {
-  font-size: 0.95em;
-  line-height: 1.6;
+.timeline-content .timeline-conference {
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin: 0 0 4px;
+}
+
+.timeline-content .timeline-location {
+  font-size: 0.82rem;
+  opacity: 0.75;
+  margin: 0 0 12px;
+}
+
+.timeline-content .timeline-description {
+  font-size: 0.9rem;
+  line-height: 1.65;
   margin: 0;
 }
 
+/* Mobile */
 @media (max-width: 600px) {
-  .selected-talk {
-    padding-left: 12px;
-    margin-bottom: 24px;
+  .timeline-item {
+    grid-template-columns: 58px minmax(0, 1fr);
+    column-gap: 12px;
+    padding-bottom: 22px;
+    margin-bottom: 22px;
+  }
+
+  .timeline-content h3 {
+    font-size: 1rem;
+  }
+
+  .timeline-year {
+    font-size: 0.95rem;
+  }
+
+  .timeline-type {
+    font-size: 0.62rem;
+    padding: 3px 5px;
   }
 }
