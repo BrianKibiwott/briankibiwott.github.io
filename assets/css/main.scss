@@ -105,32 +105,50 @@
 }
 
 
-/* Selected Conference Presentations */
+/* ========================================
+   Selected Conference Presentations
+   ======================================== */
 
-.conference-entry {
-  border-left: 3px solid #9aa8a2;
-  padding: 2px 0 2px 16px;
-  margin: 0 0 28px 0;
+.selected-talks {
+  margin-top: 24px;
+  margin-bottom: 32px;
 }
 
-.conference-entry p {
-  margin: 0 0 8px 0;
-  line-height: 1.55;
+.selected-talk {
+  margin-bottom: 28px;
+  padding-left: 16px;
+  border-left: 2px solid #a3b5ad;
 }
 
-.conference-entry p:first-child {
+.selected-talk .talk-title {
   font-size: 1.05em;
-  line-height: 1.4;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0 0 8px;
 }
 
-.conference-entry small {
+.selected-talk .talk-conference {
+  font-size: 0.92em;
+  font-style: italic;
+  line-height: 1.5;
+  margin: 0 0 3px;
+}
+
+.selected-talk .talk-date {
   font-size: 0.85em;
-  opacity: 0.8;
+  opacity: 0.75;
+  margin: 0 0 10px;
+}
+
+.selected-talk .talk-description {
+  font-size: 0.95em;
+  line-height: 1.6;
+  margin: 0;
 }
 
 @media (max-width: 600px) {
-  .conference-entry {
+  .selected-talk {
     padding-left: 12px;
-    margin-bottom: 22px;
+    margin-bottom: 24px;
   }
 }
