@@ -84,3 +84,22 @@
     height: auto;
   }
 }
+
+/* Individual images for Running & Hiking and Runners United */
+.hobby-image {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+  margin: 20px auto;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .hobby-image {
+    max-width: 100%;
+    margin: 16px auto;
+  }
+}

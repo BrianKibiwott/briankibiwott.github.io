@@ -4,7 +4,6 @@ title: "Life & Interests"
 permalink: /hobbies/
 author_profile: true
 ---
-
 Outside research, I enjoy spending time outdoors, exploring new places, and capturing moments along the way. Photography, running, and hiking are among my favourite ways to unwind and experience the natural world.
 
 ## Photography
@@ -23,9 +22,12 @@ Running has long been a source of challenge, exploration, and perspective for me
 
 [Follow my running activities on Strava](https://www.strava.com/athletes/119102801).
 
-<div class="photo-gallery">
-  <img src="photo8.jpg" alt="Photo 8">
- </div>
+<img
+
+  src="/images/hobbies/photo8.jpg"
+  alt="Running and hiking adventures"
+  class="hobby-image"
+  loading="lazy"
 
 ## Runners United
 
@@ -37,4 +39,9 @@ The idea is simple: **give running shoes a second life while supporting fellow r
 
 If you would like to contribute, collaborate, or partner with us, please [email me](mailto:kibiwottbrian@gmail.com) or connect with me on [Strava](https://www.strava.com/athletes/119102801).
 
-![Runners United shoe donation initiative](/images/hobbies/photo3.jpg)
+<img
+
+  src="/images/hobbies/photo3.jpg"
+  alt="Runners United shoe donation initiative"
+  class="hobby-image"
+  loading="lazy"
