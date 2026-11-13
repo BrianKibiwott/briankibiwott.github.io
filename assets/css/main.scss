@@ -103,3 +103,34 @@
     margin: 16px auto;
   }
 }
+
+
+/* Selected Conference Presentations */
+
+.conference-entry {
+  border-left: 3px solid #9aa8a2;
+  padding: 2px 0 2px 16px;
+  margin: 0 0 28px 0;
+}
+
+.conference-entry p {
+  margin: 0 0 8px 0;
+  line-height: 1.55;
+}
+
+.conference-entry p:first-child {
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+
+.conference-entry small {
+  font-size: 0.85em;
+  opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+  .conference-entry {
+    padding-left: 12px;
+    margin-bottom: 22px;
+  }
+}
